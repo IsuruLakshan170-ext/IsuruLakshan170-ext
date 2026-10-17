@@ -4,6 +4,8 @@
 
 Outside work I build backend/distributed-systems projects and AI-agent tooling (Claude Code, MCP servers, LLM integration).
 
+🌐 **Portfolio:** **[isurulakshan170-ext.github.io](https://isurulakshan170-ext.github.io/)**
+
 - 🔧 **Languages:** Java, Python, Go, TypeScript, SQL/PL-SQL
 - 🏗️ **Backend & distributed systems:** Spring Boot, FastAPI, Gin, Kafka, event-driven architecture, Docker
 - 🤖 **AI engineering:** Claude Code, Cursor, MCP (Model Context Protocol) servers, local LLMs, multi-agent orchestration
